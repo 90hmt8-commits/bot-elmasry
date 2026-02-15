@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Sessions
+sessions/
+
+# Logs
+logs/
+
+# IDE files
+*.idea/
+*.vscode/
